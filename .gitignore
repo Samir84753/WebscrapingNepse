@@ -1,0 +1,4 @@
+nepse/
+.ipynb_checkpoints/
+test.py
+shareapi/.env
